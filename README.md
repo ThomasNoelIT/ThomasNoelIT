@@ -63,7 +63,7 @@
 ---
 
 ## 🐍 Animated Contributions
-*In progress... (to be added with a snake animation workflow)*
+![snake gif](https://raw.githubusercontent.com/ThomasNoelIT/ThomasNoelIT/output/snake.svg)
 
 ---
 
