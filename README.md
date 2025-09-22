@@ -1,14 +1,15 @@
-# 👋 Salut, je suis Thomas Noel
+# 👋 Hi, I'm Thomas Noel
 
-💻 Developer passionate about automation, full-stack development, and open-source.
+💻 Developer passionate about automation, full-stack development, and open-source.  
 
-🔍 I enjoy turning ideas into real projects by combining technical rigor with creativity.
+🔍 I enjoy turning ideas into real projects by combining technical rigor with creativity.  
 
-🎯 My goal is to design reliable, efficient, and accessible solutions tailored to the needs of both businesses and individuals.
+🎯 My goal is to design reliable, efficient, and accessible solutions tailored to the needs of both businesses and individuals.  
 
-🤝 Open to collaborating on innovative projects, whether in software development, embedded systems, or the integration of modern tools (Docker, CI/CD, cloud).
+🤝 Open to collaborating on innovative projects, whether in software development, embedded systems, or the integration of modern tools (Docker, CI/CD, cloud).  
 
 ---
+
 ## 🚀 Main Stack
 
 ### 🔹 Languages
@@ -27,7 +28,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)
 ![PIC16 Assembly](https://img.shields.io/badge/PIC16F1789%20ASM-35495E?style=for-the-badge&logo=microchip&logoColor=white)
 
-
 ### 🔹 Tools & Environment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -40,10 +40,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ---
 
-## 📊 Stats GitHub
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasNoelIT&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasNoelIT&layout=compact&theme=tokyonight)
@@ -56,17 +55,17 @@
 
 ---
 
-## 🐍 Contributions animées
-en cours
+## 🐍 Animated Contributions
+*In progress... (to be added with a snake animation workflow)*
 
 ---
 
-## 📂 Projets en avant
-- 🔗 [Portfolio personnel](https://tonsite.com)   
-- 🤖 [Système embarqué PIC16](https://github.com/TonRepoPIC16)  
+## 📂 Featured Projects
+- 🔗 [Personal Portfolio](https://yourportfolio.com)  <!-- TODO: Replace with actual link -->
+- 🤖 [Embedded System on PIC16](https://github.com/YourRepoPIC16)  <!-- TODO: Replace with actual repo -->
 
 ---
 
-## 📫 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonlinkedin)  
-- ✉️ Email : thomasnoel.contact@gmail.com  
+## 📫 Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  <!-- TODO: Replace with actual profile -->
+- ✉️ Email: thomasnoel.contact@gmail.com
