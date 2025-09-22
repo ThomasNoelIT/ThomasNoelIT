@@ -75,5 +75,5 @@
 ---
 
 ## 📫 Contact Me
-- 💼 [LinkedIn]() *In progress... <!-- TODO: Replace with actual profile -->
+- 💼 [LinkedIn](www.linkedin.com/in/thomasnoel0420)
 - ✉️ Email: thomasnoel.contact@gmail.com
