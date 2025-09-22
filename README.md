@@ -61,11 +61,11 @@
 ---
 
 ## 📂 Featured Projects
-- 🔗 [Personal Portfolio](https://yourportfolio.com)  <!-- TODO: Replace with actual link -->
-- 🤖 [Embedded System on PIC16](https://github.com/YourRepoPIC16)  <!-- TODO: Replace with actual repo -->
+- 🔗 [Personal Portfolio]() *In progress...  <!-- TODO: Replace with actual link -->
+- 🤖 [Embedded System on PIC16]() *In progress... <!-- TODO: Replace with actual repo -->
 
 ---
 
 ## 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  <!-- TODO: Replace with actual profile -->
+- 💼 [LinkedIn]() *In progress... <!-- TODO: Replace with actual profile -->
 - ✉️ Email: thomasnoel.contact@gmail.com
