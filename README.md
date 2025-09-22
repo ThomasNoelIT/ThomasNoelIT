@@ -63,7 +63,7 @@
 ---
 
 ## 🐍 Animated Contributions
-![Snake animation]([https://raw.githubusercontent.com/ThomasNoelIT/ThomasNoelIT/refs/heads/output/snake.svg])
+![Snake animation](https://raw.githubusercontent.com/ThomasNoelIT/ThomasNoelIT/output/dist/snake.svg)
 
 ---
 
