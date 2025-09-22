@@ -1,8 +1,11 @@
 # 👋 Salut, je suis Thomas Noel
 
 💻 Developer passionate about automation, full-stack development, and open-source.
+
 🔍 I enjoy turning ideas into real projects by combining technical rigor with creativity.
+
 🎯 My goal is to design reliable, efficient, and accessible solutions tailored to the needs of both businesses and individuals.
+
 🤝 Open to collaborating on innovative projects, whether in software development, embedded systems, or the integration of modern tools (Docker, CI/CD, cloud).
 
 ---
