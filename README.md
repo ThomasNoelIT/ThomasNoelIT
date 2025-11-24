@@ -16,7 +16,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTQ4Ij48cGF0aCBmaWxsPSIjMjM5MTIwIiBkPSJNMTExLjIgMTA4LjZsLTQzLjkgMjUuNGMtNC45IDIuOC0xMS4xIDIuOC0xNiAwbC00My45LTI1LjRjLTQuOS0yLjgtOCAtOC04LTEzLjNWMzYuN2MwLTUuNCAzLjEtMTAuNSA4LTEzLjNsNDMuOS0yNS40YzQuOS0yLjggMTEuMS0yLjggMTYgMGw0My45IDI1LjRjNC45IDIuOCA4IDggOCAxMy4zdjU4LjZjMCA1LjQtMy4xIDEwLjUtOCAxMy4zeiIvPjx0ZXh0IHg9IjQzIiB5PSI5MCIgZm9udC1zaXplPSI0MCIgZmlsbD0id2hpdGUiPiM8L3RleHQ+PC9zdmc+)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
